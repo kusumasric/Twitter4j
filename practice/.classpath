@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nisha/Desktop/javax.servlet-3.0.jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/apache-httpcomponents-httpclient.jar/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/apache-httpcomponents-httpcore.jar/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/commons-io-2.5-bin/commons-io-2.5/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/signpost-commonshttp-1.2.1.1.jar/signpost-commonshttp-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/signpost-core-1.2.1.2.jar/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nisha/Downloads/AllSoftware/org-apache-commons-codec.jar/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
